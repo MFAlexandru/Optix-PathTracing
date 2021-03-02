@@ -13,7 +13,7 @@ You will have to link with GLM, STB and tiny_object_loader
 
 # Results
 
-Currently the program can render a variety of objects, you can add fog in the whole scene and you can use different materials form fully diffuse to dielectrics and combinations of them. All objects must be 3D no simple planes if it is a dielectric.
+Currently the program can render a variety of objects, you can add fog in the whole scene and you can use different materials form fully diffuse to dielectrics and combinations of them. All objects must be 3D no simple planes if it is a dielectric. There is also a Boca camera effect and Antialiasing.
 
 # Examples of rendered images:
 
