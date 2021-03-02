@@ -13,6 +13,7 @@ Currently the program can render dfferent materials, without textures, you can a
 
 # Examples:
 ![picture](Screenshot%202021-03-02%20131329.png)
+![picture](Screenshot%202021-03-02%20132404.png)
 
 
 
