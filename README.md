@@ -4,7 +4,7 @@ Implementation of path tracing using CUDA and Optix
 
 # Motivation
 
-The implementation is my own personal project, I am quiete inrested in computer graphics and I heard about the technique of raytracing in games so I tried to give it a shot. After a few months of learnig about it i finally tried it and made a CPU ray tracing program. When i tried adding some more complex geometry i ran into a bottle neck so i began to learn CUDA in hopes that I could speed up my program and after rewriting the whole thing in CUDA I found out about Optix. It took the implementation to a much higher level than before with the addition of Geometry accel. structs. Now I still make changes from time to time but I am more intrested in learnig more about real time rendering and Vulkan(January 2021)
+The implementation is my own personal project, I am quiete inrested in computer graphics and I heard about the technique of raytracing in games so I tried to give it a shot. After a few months of learnig about it i finally tried it and made a CPU ray tracing program. When i tried adding some more complex geometry i ran into a bottle neck so i began to learn CUDA in hopes that I could speed up my program and after rewriting the whole thing in CUDA I found out about Optix. It took the implementation to a much higher level than before with the addition of Geometry accel. structs. Now I still make changes from time to time but I am more intrested in learnig more about real time rendering and Vulkan (January 2021)
 
 # Instalation
 
