@@ -8,7 +8,7 @@ The implementation is my own personal project, I am quiete inrested in computer 
 
 # Instalation
 
-Open the project with Cmake, chose a directory for build and run.
+Open the project int the SDK directory with Cmake, chose a directory for build and run.
 You will have to link with GLM, STB and tiny_object_loader
 
 # Results
